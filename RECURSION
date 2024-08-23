@@ -1,0 +1,10 @@
+
+
+int Factorial(int n) {
+    // Write your code here
+    if(n<1){return 1;}
+    return n*Factorial(n-1);
+}
+int Factorial(int n): This declares a function named Factorial that takes an integer n as its argument and returns an integer.
+if(n<1){return 1;}: This is the base case for the recursion. If n is less than 1 (i.e., 0 or negative), the function returns 1. This is because 0! (0 factorial) is defined as 1, and factorial is typically not defined for negative numbers.
+return n*Factorial(n-1);: This is the recursive case. The function returns n multiplied by the factorial of n-1. This is the core of the recursive approach where the function calls itself to compute the factorial of n-1 until it reaches the base case.
