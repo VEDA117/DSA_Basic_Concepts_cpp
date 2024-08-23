@@ -1,0 +1,6 @@
+
+Recursion in C++ is a programming technique where a function calls itself in order to solve a problem. The key to using recursion effectively is to define a base case and a recursive case:
+
+Base Case: This is the condition under which the function will stop calling itself. It's crucial for preventing infinite recursion and ensuring the function eventually terminates.
+
+Recursive Case: This is where the function calls itself with modified arguments. The idea is that each recursive call works on a smaller or simpler instance of the problem, gradually reducing it to the base case.
