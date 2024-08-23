@@ -9,9 +9,9 @@ Repeat: Move the boundary of the sorted part one step to the right and repeat th
 Continue: Continue these steps until all items are sorted.
 
 # Pseudocode of Selection Sort
-SelectionSort(A)/n
-    for i = 0 to length(A) - 2 do/n
-        minIndex = i/n
+SelectionSort(A)
+    for i = 0 to length(A) - 2 do
+        minIndex = i
         for j = i + 1 to length(A) - 1 do
             if A[j] < A[minIndex] then
                 minIndex = j
