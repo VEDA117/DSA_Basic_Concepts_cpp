@@ -14,11 +14,11 @@ Improved User Experience: Sorted data enhances readability and usability in appl
 Overall, sorting plays a crucial role in enhancing performance, optimizing algorithms, and improving user experience across various computing tasks.
 
 types: 
-Lesson Sorting
-Lesson Bubble Sort
-Lesson Selection Sort
-Lesson Insertion Sort
-Lesson Merge Sort
-Lesson Quick Sort
-Lesson Count Sort
-Lesson Radix Sort
+#Lesson Sorting
+# Lesson Bubble Sort
+# Lesson Selection Sort
+# Lesson Insertion Sort
+# Lesson Merge Sort
+# Lesson Quick Sort
+# Lesson Count Sort
+# Lesson Radix Sort
